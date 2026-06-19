@@ -42,78 +42,100 @@
 
 **Системный анализ от требований до приёмки**
 
-Перешёл в IT-аналитику из инженерной среды. Веду полный цикл: сбор и формализация требований, ФТ/НФТ, Use Case, User Story, BPMN 2.0, ERD, OpenAPI и технические задания
+Перешёл в IT-аналитику из инженерной среды. Веду полный цикл: сбор и формализация требований, ФТ/НФТ, Use Case, User Story, BPMN 2.0, ERD, OpenAPI и технические задания.
 
-# Привет, я Денис Быков 👋
+</td>
+<td width="50%" valign="top">
 
-**Бизнес / системный аналитик** · Санкт-Петербург  
-Проектирую требования, API, модели данных и процессы для web-продуктов, EdTech и производственных систем.
+**Фокус в проектах**
 
-📧 [denistoro@yandex.ru](mailto:denistoro@yandex.ru) · 💬 [Telegram @denistaur](https://t.me/denistaur)
+REST API · интеграции · модели данных · BPMN · acceptance criteria · приёмочное тестирование
+
+Продуктовые команды 6–10 человек · Scrum / Kanban
+
+</td>
+</tr>
+</table>
 
 ---
 
-## О себе
+## Нотации и инструменты
 
-Перешёл в IT-аналитику из инженерной среды. Веду полный цикл системного анализа: от сбора и формализации требований до приёмки функциональности.
-
-**Фокус:** REST API · интеграции · ERD · BPMN · OpenAPI · ТЗ · Use Case · User Story
-
-**Опыт:** 2+ года в продуктовых командах (6–10 человек)
+<img src="https://img.shields.io/badge/BPMN-2.0-A56EEC?style=flat-square&labelColor=EBDDFF" alt="BPMN" />
+<img src="https://img.shields.io/badge/ERD-Model-A56EEC?style=flat-square&labelColor=EBDDFF" alt="ERD" />
+<img src="https://img.shields.io/badge/C4-Architecture-8F55DF?style=flat-square&labelColor=EBDDFF" alt="C4" />
+<img src="https://img.shields.io/badge/UML-Use%20Case-8F55DF?style=flat-square&labelColor=EBDDFF" alt="UML" />
+<img src="https://img.shields.io/badge/OpenAPI-Swagger-A56EEC?style=flat-square&labelColor=EBDDFF" alt="OpenAPI" />
+<img src="https://img.shields.io/badge/SQL-PostgreSQL-727272?style=flat-square&labelColor=F5F7FB" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Jira-Confluence-727272?style=flat-square&labelColor=F5F7FB" alt="Jira" />
+<img src="https://img.shields.io/badge/Draw.io-Diagrams-727272?style=flat-square&labelColor=F5F7FB" alt="Draw.io" />
 
 ---
 
 ## Ключевые проекты
 
-### [DiagramHub](https://diagramhub.ru) · SaaS · системный аналитик
-Онлайн-сервис для создания архитектурных диаграмм: C4, BPMN, ERD, Sequence, Use Case.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Спроектировал **diagram-as-code**: текстовая нотация → визуальная диаграмма
-- Подготовил спецификацию: грамматика, сценарии, ФТ/НФТ, бизнес-правила, критерии приёмки
-- Описал **REST API** для создания, редактирования и экспорта диаграмм (OpenAPI)
-- Спроектировал интеграции: **UniSender GO**, **YooKassa**
-- Разработал **ERD** и логическую модель данных
+### DiagramHub
+**SaaS · системный аналитик**
 
-### EdTech LMS · бизнес/системный аналитик
-LMS для управления курсами и прогрессом обучения.
+[diagramhub.ru](https://diagramhub.ru)
 
-- Декомпозировал модуль «Программа курса и прогресс обучения»
-- Формализовал ФТ/НФТ, **acceptance criteria**, **Use Case**, **BPMN** процесса обучения
-- Спроектировал **REST API** (Swagger/OpenAPI) для структуры курса и трекинга прогресса
-- Подготовил ТЗ и макеты экранов, шаблоны документации для команды
+Онлайн-сервис для C4, BPMN, ERD, Sequence, Use Case.
 
-### MES-система · системный аналитик · NDA
-Автоматизация производственных процессов (справочники, АРМ, маркировка).
+- diagram-as-code
+- REST API (OpenAPI)
+- ERD и логическая модель
+- интеграции UniSender GO, YooKassa
 
-- **API-контракты** для 5 справочных модулей
-- **UX-макеты** АРМ, ТЗ на frontend, BPMN производственных процессов
-- **ERD**, приёмочное тестирование, согласование критериев приёмки с заказчиком
+</td>
+<td width="33%" valign="top">
 
-📁 Подробные кейсы и артефакты: [systems-analyst-portfolio](https://github.com/YOUR_USERNAME/YOUR_PORTFOLIO_REPO)
+### EdTech LMS
+**бизнес / системный аналитик**
+
+LMS: курсы, контент, прогресс обучения.
+
+- модуль программы курса
+- ФТ/НФТ, Use Case, BPMN
+- REST API в Swagger
+- ТЗ и макеты экранов
+
+</td>
+<td width="33%" valign="top">
+
+### MES-система
+**системный аналитик · NDA**
+
+Производственная автоматизация.
+
+- API для 5 справочников
+- UX-макеты АРМ
+- BPMN процессов
+- ERD, приёмка модулей
+
+</td>
+</tr>
+</table>
+
+📁 Подробные кейсы: **[systems-analyst-portfolio](https://github.com/YOUR_USERNAME/systems-analyst-portfolio)**
 
 ---
 
-## Навыки
+## Цикл работы аналитика
 
-**Анализ:** системный анализ · бизнес-анализ · сбор требований · User Story · Use Case · BPMN 2.0 · UML · C4
-
-**Проектирование:** REST API · OpenAPI/Swagger · JSON · ERD · SQL · PostgreSQL
-
-**Документация:** технические задания · ФТ/НФТ · acceptance criteria · Confluence
-
-**Инструменты:** Jira · Draw.io · Postman · Git · Docker · Scrum · Kanban
-
-**Языки:** русский — родной · английский — B1
-
----
-
-## Контакты
-
-| | |
-|---|---|
-| 📧 Email | denistoro@yandex.ru |
-| 💬 Telegram | [@denistaur](https://t.me/denistaur) |
-| 📍 Локация | Санкт-Петербург |
-| 💼 Формат | офис · гибрид · удалёнка |
-
-Открыт к предложениям по позиции **бизнес / системный аналитик**.
+```mermaid
+flowchart LR
+  A[Сбор требований] --> B[ФТ / НФТ / User Story]
+  B --> C[Use Case · BPMN]
+  C --> D[ERD · OpenAPI]
+  D --> E[ТЗ · макеты]
+  E --> F[Приёмка · UAT]
+  style A fill:#EBDDFF,stroke:#8F55DF,color:#131212
+  style B fill:#F5F7FB,stroke:#C6C6C6,color:#131212
+  style C fill:#F5F7FB,stroke:#C6C6C6,color:#131212
+  style D fill:#F5F7FB,stroke:#C6C6C6,color:#131212
+  style E fill:#F5F7FB,stroke:#C6C6C6,color:#131212
+  style F fill:#EBDDFF,stroke:#A56EEC,color:#131212
