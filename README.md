@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f7fb&height=140&section=header&text=Denis%20Bykov&fontSize=46&fontColor=131212&animation=twinkling" alt="Denis Bykov" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EBDDFF,100:A56EEC&height=160&section=header&text=Denis%20Bykov&fontSize=46&fontColor=131212&animation=twinkling" alt="Denis Bykov" />
 <br />
 <img src="https://img.shields.io/badge/Role-Бизнес%20%2F%20системный%20аналитик-A56EEC?style=for-the-badge&labelColor=EBDDFF" alt="Бизнес / системный аналитик" />
 <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-727272?style=for-the-badge&labelColor=F5F7FB" alt="Saint Petersburg" />
 <img src="https://img.shields.io/badge/Experience-2%2B%20years-8F55DF?style=for-the-badge&labelColor=EBDDFF" alt="2+ years" />
 </div>
 
-# Привет, я Денис Быков 
+# Привет, я Денис Быков
 
 **Бизнес / системный аналитик** · Санкт-Петербург  
 Проектирую требования, API, модели данных и процессы для web-продуктов, EdTech и производственных систем.
