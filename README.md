@@ -11,7 +11,7 @@
 **Бизнес / системный аналитик** · Санкт-Петербург  
 Проектирую требования, API, модели данных и процессы для web-продуктов, EdTech и производственных систем.
 
-📧 [denistoro@yandex.ru](mailto:denistoro@yandex.ru) · &lt;tg&gt; [Telegram @denistaur](https://t.me/denistaur)
+📧 [denistoro@yandex.ru](mailto:denistoro@yandex.ru) ·&#917; [Telegram @denistaur](https://t.me/denistaur)
 
 ---
 
