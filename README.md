@@ -1,8 +1,48 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=120&section=header&text=Denis%20Bykov&fontSize=42&fontColor=ffffff&animation=twinkling)
+<!-- DiagramHub-inspired profile: #A56EEC · #F5F7FB · #131212 · #727272 -->
 
-![Role](https://img.shields.io/badge/Role-Systems%20Analyst-2563eb?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Saint%20Petersburg-555?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20years-555?style=for-the-badge)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f7fb&height=140&section=header&text=Denis%20Bykov&fontSize=46&fontColor=131212&animation=twinkling" alt="Denis Bykov" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Role-Systems%20Analyst-A56EEC?style=for-the-badge&labelColor=EBDDFF" alt="Systems Analyst" />
+<img src="https://img.shields.io/badge/Location-Saint%20Petersburg-727272?style=for-the-badge&labelColor=F5F7FB" alt="Saint Petersburg" />
+<img src="https://img.shields.io/badge/Experience-2%2B%20years-8F55DF?style=for-the-badge&labelColor=EBDDFF" alt="2+ years" />
+
+<br /><br />
+
+**Бизнес / системный аналитик** · Санкт-Петербург
+
+Формализую требования, проектирую API, модели данных и процессы для web-продуктов, EdTech и MES.
+
+<br />
+
+<a href="mailto:denistoro@yandex.ru">
+  <img src="https://img.shields.io/badge/Email-denistoro%40yandex.ru-A56EEC?style=flat-square&labelColor=EBDDFF" alt="Email" />
+</a>
+&nbsp;
+<a href="https://t.me/denistaur">
+  <img src="https://img.shields.io/badge/Telegram-@denistaur-8F55DF?style=flat-square&labelColor=EBDDFF" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://diagramhub.ru">
+  <img src="https://img.shields.io/badge/DiagramHub-diagramhub.ru-131212?style=flat-square&labelColor=F5F7FB" alt="DiagramHub" />
+</a>
+
+</div>
+
+---
+
+## О себе
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Системный анализ от требований до приёмки**
+
+Перешёл в IT-аналитику из инженерной среды. Веду полный цикл: сбор и формализация требований, ФТ/НФТ, Use Case, User Story, BPMN 2.0, ERD, OpenAPI и технические задания
 
 # Привет, я Денис Быков 👋
 
