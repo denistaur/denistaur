@@ -6,12 +6,12 @@
 <img src="https://img.shields.io/badge/Experience-2%2B%20years-8F55DF?style=for-the-badge&labelColor=EBDDFF" alt="2+ years" />
 </div>
 
-# Привет, я Денис Быков 👋
+# Привет, я Денис Быков 
 
 **Бизнес / системный аналитик** · Санкт-Петербург  
 Проектирую требования, API, модели данных и процессы для web-продуктов, EdTech и производственных систем.
 
-📧 [denistoro@yandex.ru](mailto:denistoro@yandex.ru) · 💬 [Telegram @denistaur](https://t.me/denistaur)
+📧 [denistoro@yandex.ru](mailto:denistoro@yandex.ru) · &lt;tg&gt; [Telegram @denistaur](https://t.me/denistaur)
 
 ---
 
